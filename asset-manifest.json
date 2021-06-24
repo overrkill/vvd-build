@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.739c8cf6.chunk.css",
+    "main.js": "/static/js/main.d5524b3f.chunk.js",
+    "main.js.map": "/static/js/main.d5524b3f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.112012c7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.112012c7.js.map",
+    "static/css/2.d565e0ea.chunk.css": "/static/css/2.d565e0ea.chunk.css",
+    "static/js/2.0121f09b.chunk.js": "/static/js/2.0121f09b.chunk.js",
+    "static/js/2.0121f09b.chunk.js.map": "/static/js/2.0121f09b.chunk.js.map",
+    "static/js/3.2d2368bc.chunk.js": "/static/js/3.2d2368bc.chunk.js",
+    "static/js/3.2d2368bc.chunk.js.map": "/static/js/3.2d2368bc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d565e0ea.chunk.css.map": "/static/css/2.d565e0ea.chunk.css.map",
+    "static/css/main.739c8cf6.chunk.css.map": "/static/css/main.739c8cf6.chunk.css.map",
+    "static/js/2.0121f09b.chunk.js.LICENSE.txt": "/static/js/2.0121f09b.chunk.js.LICENSE.txt",
+    "static/media/background.5fa5d3c4.jpg": "/static/media/background.5fa5d3c4.jpg",
+    "static/media/bugatti.d8a5373c.png": "/static/media/bugatti.d8a5373c.png",
+    "static/media/car1.cc0c93bf.png": "/static/media/car1.cc0c93bf.png",
+    "static/media/car2.23d1e908.png": "/static/media/car2.23d1e908.png",
+    "static/media/user.01f57b62.png": "/static/media/user.01f57b62.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.112012c7.js",
+    "static/css/2.d565e0ea.chunk.css",
+    "static/js/2.0121f09b.chunk.js",
+    "static/css/main.739c8cf6.chunk.css",
+    "static/js/main.d5524b3f.chunk.js"
+  ]
+}
